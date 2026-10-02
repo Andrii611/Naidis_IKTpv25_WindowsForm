@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Naidis_IKTpv25_WindowsForm;
+using System;
 using System.Windows.Forms;
 
 namespace KolmRakendust
